@@ -1,3 +1,7 @@
+THE MOBILE APP FOR THE SAME CAN BE FOUND HERE: https://github.com/dhruvv28/Factschecker_mobile
+
+Tools Used for mobile app: Flutter, Dart, Flask, Tavily 
+
 <img width="1490" alt="Screenshot 2025-02-09 at 10 38 40 AM" src="https://github.com/user-attachments/assets/30469de8-59ec-44d6-a965-46cbed31d7ae" />
 A fact checking platform!
 Tools used: Flask, Next.js, Typescript, Apache Kafka, Langchain, Ollama, NLTK.
